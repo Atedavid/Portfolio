@@ -1,0 +1,202 @@
+body {
+
+    background-color: #e5e5e5;
+}
+
+
+    #wrapper {
+        max-width: 375px;
+        height: 718px;
+        background: #ffff;
+        margin: 0 auto;
+    }
+.time {
+
+    padding: 10px 0 0 37px;
+    font-size: 14px;
+    font: Roboto;
+}
+.logo {
+
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #6070ff;
+    padding: 0 0 0 30px;
+    font-weight: bolder;
+}
+li{
+
+   list-style-type: none; 
+   
+}
+ul{
+    padding-inline-start: 0;
+}
+.top-display {
+
+    display: flex;
+    justify-content: space-between;
+}
+.box {
+
+    width: 18px;
+    height: 2px;
+    border-radius: 10px;
+}
+.one {
+
+    background-color: #6070ff;
+    padding: 2px;
+    margin: 2px 30px 2px 2px;
+    
+}
+.two {
+
+    background-color: #6070ff;
+    padding: 2px;
+    margin: 2px;
+}
+.three {
+
+    background-color: #6070ff;
+    padding: 2px;
+    margin: 2px;
+}
+
+/*images before intro*/
+.clip {
+
+    position: absolute;
+    top: 155px;
+    left: 810px;
+}
+.clipone {
+
+    position: absolute;
+    top: 125px;
+    left: 781px;
+}
+.clipsav {
+
+    position: absolute;
+    top: 165px;
+    left: 650px;
+}
+.clipclap {
+
+    position: absolute;
+    top: 170px;
+    left: 647px;
+}
+.clipelip {
+
+    position: absolute;
+    top:149px;
+}
+
+/* Introduction*/
+
+.intro {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    color: #172B4D;
+    padding: 10px 20px 0 20px;
+    letter-spacing: 4px;
+}
+.elip {
+
+    position: absolute;
+    top: 310px;
+    left: 780px;
+}
+.personal{
+
+    padding: 0 24px 0 24px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #344563;
+    letter-spacing: 1px;
+   
+}
+
+/*styling the footer*/
+
+.contact {
+
+    font-family:'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 24px;
+    color: #7FBCFF;
+    padding: 0 0 0 24px;
+    letter-spacing: 4px;
+}
+.eclik {
+    position: absolute;
+    bottom: 80px;
+    left: 800px;
+}
+.eclek {
+
+    position: absolute;
+    bottom: 55px;
+    left: 790px;
+}
+.social {
+
+    position: absolute;
+    bottom: 48px;
+    left: 510px;
+}
+.socialtwo {
+
+    position: absolute;
+    bottom: 48px;
+    left: 545px;
+}
+.socialone {
+
+    position: absolute;
+    bottom: 48px;
+    left: 552px;
+}
+.socialthree{
+
+    position: absolute;
+    bottom: 48px;
+    left: 578px;
+}
+.socialfour {
+    position: absolute;
+    bottom: 48px;
+    left: 610px;
+}
+.socialfive {
+
+    position: absolute;
+    bottom: 48px;
+    left: 645px;
+}
+.ftone {
+
+    position: absolute;
+    bottom: -50px;
+    left: 560px
+}
+.fttwo {
+
+    position: absolute;
+    bottom: -80px;
+    left: 650px;
+}
+.ftthree {
+
+    position: absolute;
+    bottom: -68px;
+    left: 700px;
+}
