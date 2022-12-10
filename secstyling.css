@@ -1,0 +1,26 @@
+body {
+
+    background-color: blanchedalmond;
+}
+.outer {
+
+    background-color: #C1C7D0;
+    width: 375px;
+    height: 823px;
+    margin: 0 auto;
+}
+#wrapper {
+
+    background-color: #DFE1E6;
+    width: 343px;
+    height: 713px;
+    padding: 16px;
+}
+.icon {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    line-height: 44px;
+    font-size: 32px;
+    
+}
